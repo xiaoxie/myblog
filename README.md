@@ -1,13 +1,13 @@
 # myblog
 
 
-### install node
+### install [node](https://nodejs.org) or use [nvm](https://github.com/creationix/nvm)
 
 	brew install npm
 
 	brew install nvm
 
-### install hexo 
+### install [hexo](http://hexo.io) 
 
 	npm install hexo-cli -g
 
