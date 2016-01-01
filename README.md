@@ -23,7 +23,7 @@
 
 	cd blog
 
-	mv -R myblog/* .
+	cp -R blog/* myblog/
 
 ### install package
 
@@ -31,4 +31,9 @@
 
 ### run hexo
 
-	hexo server
+	hexo serve
+
+### install theme
+
+	git clone https://github.com/litten/hexo-theme-yilia.git themes/yilia
+
