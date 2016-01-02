@@ -6,4 +6,5 @@ node_modules/
 public/
 .deploy*/
 */.git/
+themes/
 package.json
