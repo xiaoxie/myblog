@@ -34,3 +34,8 @@ ArrayList<? extends Parcelable> value
 ? extends Parcelable[] value
 ```
 
+
+{% plantuml %}
+    Bob->Alice : hello
+{% endplantuml %}
+
