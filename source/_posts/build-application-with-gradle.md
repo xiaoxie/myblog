@@ -15,6 +15,7 @@ tags: gradle, android
 
 * [androiddevtools](http://www.androiddevtools.cn/#gradle) 国内Android开发资源
 
+<!--more-->
 
 ### Hello gradle
 

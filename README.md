@@ -35,5 +35,5 @@
 
 ### install theme
 
-	git clone https://github.com/litten/hexo-theme-yilia.git themes/yilia
+	git clone https://github.com/luuman/hexo-theme-spfk themes/yilia
 

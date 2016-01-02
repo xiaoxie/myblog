@@ -1,1 +1,42 @@
-<script type="text/javascript" src="http://www.qq.com/404/search_children.js" charset="utf-8" homePageUrl="http://shoujibang.net" homePageName="回到我的主页"></script>
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>404</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="移动互联网-技术博客">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Xiaoxie's Blog">
+    <meta property="og:url" content="http://shoujibang.net/index.html">
+    <meta property="og:site_name" content="Xiaoxie's Blog">
+    <meta property="og:description" content="移动互联网-技术博客">
+    <link rel="icon" href="/favicon.ico">
+
+    <body>
+        <span id="totalSecond"> 5 </span>
+        <script type="text/javascript" src="http://www.qq.com/404/search_children.js" charset="utf-8" homePageUrl="/" homePageName="回到我的主页"></script>
+        <script type="text/javascript">
+        var second = document.getElementById('totalSecond').textContent;
+        if (navigator.appName.indexOf("Explorer") > -1) {
+            second = document.getElementById('totalSecond').innerText;
+        } else {
+            second = document.getElementById('totalSecond').textContent;
+        }
+        setInterval("redirect()", 1000);
+
+        function redirect() {
+            if (second < 0) {
+                location.href = '/';
+            } else {
+                if (navigator.appName.indexOf("Explorer") > -1) {
+                    document.getElementById('totalSecond').innerText = second--;
+                } else {
+                    document.getElementById('totalSecond').textContent = second--;
+                }
+            }
+        }
+        </script>
+    </body>
+
+</html>

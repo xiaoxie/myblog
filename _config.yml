@@ -6,7 +6,7 @@
 title: Xiaoxie's Blog
 subtitle:
 description: 移动互联网-技术博客
-keywords: Java,Android,技术博客
+keywords: Java,Android,技术博客,ios,App,Docker
 author: Xiaoxie
 email: xiaoxie536#gmail.com
 language: zh-Hans
@@ -17,7 +17,7 @@ timezone:
 url: http://shoujibang.net
 root: /
 permalink: :year/:month/:day/:title/
-permalink_defaults:
+permalink_defaults: 
 
 # Directory
 source_dir: source

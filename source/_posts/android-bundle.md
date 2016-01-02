@@ -12,6 +12,8 @@ Android 开发中 bundle 再熟悉不过了，看了下 bundle 底层实现，�
 * ClassLoader
 * Java 序列化和反序列
 
+<!--more-->
+
 ### 支持的数据类型
 
 基本数据类型 
