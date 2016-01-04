@@ -5,7 +5,7 @@ categories: docker
 tags: docker
 ---
 
-docker 想说爱你不容易。
+docker 想说爱你不容易，在此记录docker的实践过程 。
 
 <!--more-->
 
