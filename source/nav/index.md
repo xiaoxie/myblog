@@ -1,13 +1,19 @@
-title: 网站收藏
+title: 网站收录
 date: 2016-01-04 18:42:57
 ---
 
-* http://www.androiddesignpatterns.com
+* [android design patterns](http://www.androiddesignpatterns.com)
 
-* http://club.alibabatech.org
+* [alibabatech](http://club.alibabatech.org)
 
-* http://tech.meituan.com
+* [美团技术](http://tech.meituan.com)
 
-* http://www.ibm.com/developerworks/cn/java
+* [IBM java 主题](http://www.ibm.com/developerworks/cn/java)
 
-* http://www.alloyteam.com/
+* [alloyteam](http://www.alloyteam.com)
+
+* [开发中前线](http://www.devtf.cn)
+
+* [谷歌开发中社区](http://chinagdg.org)
+
+
