@@ -6,6 +6,12 @@ tags: Android
 Android 学习资源收集
 ---
 
+### 数据结构与算法系列
+
+* [数据结构与算法]http://blog.csdn.net/iaiti/article/category/1518587
+
+* [各种排序算法的分析及java实现](http://www.cnblogs.com/liuling/p/2013-7-24-01.html)
+
 ### 架构，任何伟大的项目都是从小项目开始，不断增强演进过来的。
 
 * [微信Android客户端架构演进之路](http://www.infoq.com/cn/articles/wechat-android-app-architecture) 
@@ -32,9 +38,37 @@ Android 学习资源收集
 
 * [给 App 提速：Android 性能优化总结](http://android.jobbole.com/81944)
 
+* [Android Low Memory Killer](http://www.cnblogs.com/angeldevil/archive/2013/05/21/3090872.html)
+
+* [Android应用性能优化实践](http://www.tuicool.com/articles/F3E3yei)
+
+* [Android性能优化方法](http://www.tuicool.com/articles/2euaQbU)
+
+* [android 内存和性能优化汇总](http://www.tuicool.com/articles/VfyQZff)
+
 ### 开发框架
 
 * [UltimateAndroid](https://github.com/apkdemo/UltimateAndroid#rd)
 
-* []()
+* [KJFrameForAndroid](https://github.com/kymjs/KJFrameForAndroid)
+
+* [UltimateAndroid](https://github.com/cymcsg/UltimateAndroid)
+
+* [leakcanary 内存检查插件](https://github.com/square/leakcanary)
+
+* [XActivity 工具集](http://git.oschina.net/xcode_xiao/XActivity)
+
+* [AValidations 表单校验](http://git.oschina.net/quanke/AValidations)
+
+* [xUtils3](https://github.com/wyouflf/xUtils3)
+
+* [androidone](https://github.com/devinhu/androidone)
+
+* [androidbootstrap](http://www.androidbootstrap.com/)
+
+* [abase](http://git.oschina.net/jayqqaa12/abase)
+
+### 开源APP
+
+* [AisenWeiBo 微博客户端](http://git.oschina.net/wang_dan/AisenWeiBo)
 
