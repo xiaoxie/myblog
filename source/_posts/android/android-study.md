@@ -70,7 +70,19 @@ Android 学习资源收集
 
 * [abase](http://git.oschina.net/jayqqaa12/abase)
 
+* [AndroidFine](https://github.com/tianshaojie/AndroidFine)
+
+### 微博
+
+* [lmj623565791](http://blog.csdn.net/lmj623565791)
+
 ### 开源APP
 
 * [AisenWeiBo 微博客户端](http://git.oschina.net/wang_dan/AisenWeiBo)
+
+* [Android最佳实践指南——GitHub Star 7000+](http://www.tuicool.com/articles/aEvAnaz)
+
+### 动画大全
+
+* [动画大全](https://connoratherton.com/)
 
