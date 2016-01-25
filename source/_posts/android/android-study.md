@@ -6,6 +6,10 @@ tags: Android
 Android 学习资源收集
 ---
 
+### 学习建议
+
+* [给Android程序员的一些面试建议](http://android.jobbole.com/81902)
+
 ### 数据结构与算法系列
 
 * [数据结构与算法](http://blog.csdn.net/iaiti/article/category/1518587)
@@ -82,7 +86,9 @@ Android 学习资源收集
 
 * [Android最佳实践指南——GitHub Star 7000+](http://www.tuicool.com/articles/aEvAnaz)
 
-### 动画大全
+### 代码大全
 
 * [动画大全](https://connoratherton.com/)
+
+* [code4app](http://code4app.com/)
 

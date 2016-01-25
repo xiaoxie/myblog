@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 使用 gradle 构建 Android
+title: 使用 Gradle 构建 Android
 categories: android
 tags: gradle, android
 ---
