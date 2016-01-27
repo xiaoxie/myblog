@@ -124,3 +124,9 @@ App的自动生成系统，命令行下实现iOS App编译，压缩，签名等�
 
 	itms-services://?action=download-manifest&url=https://www.XXX.com/XXX.plist
 
+### 扩展
+
+企业包：[发布到 fir.im 或者 蒲公英pgyer.com 进行分发](http://www.cocoachina.com/ios/20150814/13061.html)
+
+个人包：[发布到AppStore进行审核](http://www.cocoachina.com/appstore)
+

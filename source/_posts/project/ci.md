@@ -76,14 +76,11 @@ android sdk
 
 ant
 
-gradle，参考:[使用 Gradle 构建 Android](http://shoujibang.net/2016/01/25/android/build-application-with-gradle/)
+[使用 Gradle 构建 Android](http://shoujibang.net/2016/01/25/android/build-application-with-gradle/)
 
 ### IOS project 构建配置
-使用 xcodebuild ，xcrun 来打包编译项目，生成ipa文件 。
-
-企业包：[发布到 fir.im 或者 蒲公英pgyer.com 进行分发](http://www.cocoachina.com/ios/20150814/13061.html)
-
-个人包：[发布到AppStore进行审核](http://www.cocoachina.com/appstore)
+	
+[使用 xcodebuild ，xcrun 来打包编译项目，生成ipa文件](http://shoujibang.net/2016/01/27/ios/build-ios-project-with-command)
 
 ### Java web 构建配置
 	maven
