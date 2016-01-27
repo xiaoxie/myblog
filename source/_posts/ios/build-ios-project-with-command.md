@@ -7,6 +7,8 @@ tags: ios
 
 通常打包采用xcodebuild和xcrun两个命令，xcodebuild负责编译，xcrun负责将app打成ipa。
 
+<!--more-->
+
 ### 配置过程
 
 清理工程
