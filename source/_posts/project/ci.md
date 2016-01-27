@@ -9,6 +9,8 @@ tags:
 ### 持续集成简介
 	持续集成是一种软件开发实践，即团队开发成员经常集成它们的工作，通过每个成员每天至少集成一次，也就意味着每天可能会发生多次集成。每次集成都通过自动化的构建（包括编译，发布，自动化测试）来验证，从而尽早地发现集成错误。
 
+<!--more-->
+
 ### 持续集成价值
 	减少风险
 	减少重复过程
@@ -39,6 +41,7 @@ tags:
 	8. 测试是未来，未来是测试
 
 ### 继续集成工具
+
 * [Jenkins](https://jenkins-ci.org/)
 * [Buildbot](http://buildbot.net/)
 * [Travis CI](http://stridercd.com/)
@@ -46,8 +49,15 @@ tags:
 * [Go](http://www.go.cd/)
 * [Integrity](http://integrity.github.io/)
 
-### Jenkins 安装配置
-	http://www.360doc.com/content/13/0412/09/10504424_277718090.shtml
+### Jenkins
+	将作为自动化单元测试持续集成的平台,实现自动化构建,主要用于：
+
+*	持续、自动地构建测试软件项目
+*	监控一些定时执行的任务
+
+### Jenkins 
+
+	安装配置:http://www.360doc.com/content/13/0412/09/10504424_277718090.shtml
 	账号权限
 
 	也可使用docker快速集成
@@ -61,22 +71,28 @@ tags:
 	cocoapods
 
 ### Android project 构建配置
-	Android sdk
-	ant
-	gradle
+
+android sdk
+
+ant
+
+gradle，参考:[使用 Gradle 构建 Android](http://shoujibang.net/2016/01/25/android/build-application-with-gradle/)
 
 ### IOS project 构建配置
-	xcodebuild
-	xcrun
-	问题：
-		Code Sign error: No codesigning identities found:
-		清除项目缓存：http://www.cnblogs.com/qingjoin/p/3929493.html
+使用 xcodebuild ，xcrun 来打包编译项目，生成ipa文件 。
+
+企业包：[发布到 fir.im 或者 蒲公英pgyer.com 进行分发](http://www.cocoachina.com/ios/20150814/13061.html)
+
+个人包：[发布到AppStore进行审核](http://www.cocoachina.com/appstore)
 
 ### Java web 构建配置
 	maven
 	ant
 	gradle
 
-### 单元测试及报告
+### 集成自动化测试
+
+	[自动化单元测试实践之路](http://www.infoq.com/cn/articles/road-of-automated-unit-testing-practices)
+
 
 ### 质量测试
