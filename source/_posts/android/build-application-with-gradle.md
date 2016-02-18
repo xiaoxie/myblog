@@ -89,6 +89,10 @@ tags: gradle, android
 
 	manifestPlaceholders = [key1: value1,key2: value2,...]
 
+#### 5、构建完成后发布到私服仓库
+
+	
+
 
 
 

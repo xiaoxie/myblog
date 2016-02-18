@@ -1,9 +1,6 @@
-title: android-study
+title: Android 学习资源收录
 date: 2016-01-05 10:53:59
 tags: Android
----
-
-Android 学习资源收集
 ---
 
 ### 学习建议
@@ -79,6 +76,8 @@ Android 学习资源收集
 ### 微博
 
 * [lmj623565791](http://blog.csdn.net/lmj623565791)
+
+* [maosidiaoxian](http://blog.csdn.net/maosidiaoxian)
 
 ### 开源APP
 

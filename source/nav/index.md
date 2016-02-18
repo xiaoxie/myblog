@@ -2,6 +2,8 @@ title: 网站收录
 date: 2016-01-04 18:42:57
 ---
 
+* [知识库](http://lib.csdn.net)
+
 * [Android design patterns](http://www.androiddesignpatterns.com)
 
 * [Alibaba tech](http://club.alibabatech.org)
@@ -21,6 +23,8 @@ date: 2016-01-04 18:42:57
 * [Jobbole](http://www.jobbole.com)
 
 * [OC 中国](http://objccn.io)
+
+* [segmentfault](https://segmentfault.com)
 
 * [PPT模板](http://www.1ppt.com)  [ooopic](http://www.ooopic.com)  [ppt20](http://www.ppt20.com)
 
