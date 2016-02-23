@@ -15,6 +15,8 @@ tags:
 
 * [Gitflow Workflow](http://blog.csdn.net/happydeer/article/details/17618935) git 流程
 
+* [Shell常用招式大全之入门篇](https://segmentfault.com/a/1190000002924882) shell 指令参考入门
+
 * gem 源
 ```
 	gem sources --remove https://rubygems.org
