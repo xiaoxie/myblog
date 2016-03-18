@@ -1,4 +1,3 @@
----
 layout: post
 title: 持续集成(Continuous integration)
 categories: project

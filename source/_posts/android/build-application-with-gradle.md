@@ -1,4 +1,3 @@
----
 layout: post
 title: 使用 Gradle 构建 Android
 categories: android

@@ -1,4 +1,3 @@
----
 title: 通过xcodebuild和xcrun自动构建IOS项目
 date: 2016-01-27 17:55:33
 tags: ios
