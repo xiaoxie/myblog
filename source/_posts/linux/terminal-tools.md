@@ -5,6 +5,7 @@ categories: tools
 tags:
   - terminal
   - command
+  - linux
 ---
 
 * [tldr](http://tldr-pages.github.io/) 命令使用帮助和示例

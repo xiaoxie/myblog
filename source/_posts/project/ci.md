@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 持续集成(Continuous integration)
-categories: linux
+categories: project
 tags:
-  - linux
+  - project
 ---
 
 ### 持续集成简介

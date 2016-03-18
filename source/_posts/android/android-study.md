@@ -1,3 +1,4 @@
+---
 title: Android 学习资源收录
 date: 2016-01-05 10:53:59
 tags: Android
@@ -73,7 +74,7 @@ tags: Android
 
 * [AndroidFine](https://github.com/tianshaojie/AndroidFine)
 
-### 微博
+### 博客
 
 * [lmj623565791](http://blog.csdn.net/lmj623565791)
 

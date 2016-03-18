@@ -28,6 +28,16 @@ date: 2016-01-04 18:42:57
 
 * [segmentfault](https://segmentfault.com)
 
+### 博客
+
+* [专家博客](http://blog.csdn.net/experts.html)
+
+* [郭霖的专栏](http://blog.csdn.net/guolin_blog)
+
+* [Hongyang](http://blog.csdn.net/lmj623565791)
+
+* [老罗的Android之旅](http://blog.csdn.net/luoshengyang)
+
 ### 软件工程
 
 * [软件工程](http://www.uml.org.cn)
@@ -57,6 +67,8 @@ date: 2016-01-04 18:42:57
 * [架构师](http://baike.baidu.com/view/1194938.htm)
 
 ### 产品设计
+
+* [早读啦](http://zaodula.com)
 
 * [腾讯CDC](http://cdc.tencent.com)
 
