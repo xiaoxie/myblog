@@ -1,7 +1,13 @@
 title: EventBus 学习录
 date: 2016-01-03 11:05:53
-tags: EventBus,android
+categories: android
+tags: 
+	- eventBus
+	- android
 ---
+
+<!-- toc -->
+<!--more-->
 
 ### EventBus 是神马？
 
@@ -9,8 +15,6 @@ tags: EventBus,android
 
 ### EventBus 的作业
 > 解耦，软件开发中永恒的话题，它不是通用的发布订阅系统，也不能用于进程间通信。
-
-<!--more-->
 
 ### 开源库
 

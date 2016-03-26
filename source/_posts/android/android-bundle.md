@@ -1,17 +1,17 @@
 title: Android Bundle 传递数据
 date: 2015-12-30 13:59:08
 categories: android
-tags: Android
+tags: android
 ---
 
 Android 开发中 bundle 再熟悉不过了，看了下 bundle 底层实现，涉及到的知识点不少，intent 的传递也是使用了内置的 bundle 来实现的，本文梳理对这些知识点做梳理整理：
+
+<!--more-->
 
 * ArrayMap
 * Parcel
 * ClassLoader
 * Java 序列化和反序列
-
-<!--more-->
 
 ### 支持的数据类型
 

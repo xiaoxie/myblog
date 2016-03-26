@@ -1,7 +1,11 @@
 title: Android 学习资源收录
 date: 2016-01-05 10:53:59
-tags: Android
+categories: android
+tags: android
 ---
+
+<!-- toc -->
+<!--more-->
 
 ### 学习建议
 
@@ -12,8 +16,6 @@ tags: Android
 * [数据结构与算法](http://blog.csdn.net/iaiti/article/category/1518587)
 
 * [各种排序算法的分析及java实现](http://www.cnblogs.com/liuling/p/2013-7-24-01.html)
-
-<!--more-->
 
 ### 架构，任何伟大的项目都是从小项目开始，不断增强演进过来的。
 

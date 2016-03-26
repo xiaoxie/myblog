@@ -21,8 +21,6 @@
 
 ### merge code
 
-	cd blog
-
 	cp -R blog/* myblog/
 
 ### install package
@@ -36,4 +34,12 @@
 ### install theme
 
 	git clone https://github.com/luuman/hexo-theme-spfk themes/yilia
+
+### git plugin
+	
+	npm install hexo-deployer-git --save
+
+### deploye
+
+	hexo -d g
 

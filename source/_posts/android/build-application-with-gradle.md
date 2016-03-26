@@ -1,8 +1,13 @@
 layout: post
 title: 使用 Gradle 构建 Android
 categories: android
-tags: gradle, android
+tags: 
+	- gradle
+	- android
 ---
+
+<!-- toc -->
+<!--more-->
 
 ### Gradle资源
 
@@ -13,8 +18,6 @@ tags: gradle, android
 * [appspot](http://gradleplease.appspot.com/) Gradle Dependencies Configuration Generator(需要梯子)
 
 * [androiddevtools](http://www.androiddevtools.cn/#gradle) 国内Android开发资源
-
-<!--more-->
 
 ### Hello gradle
 

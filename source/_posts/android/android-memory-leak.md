@@ -1,11 +1,14 @@
 title: Android 内存泄漏
 date: 2016-01-04 18:16:41
-tags: Android
+categories: android
+tags: 
+	- android
 ---
 
-### 1、Handler&内部类 (涉及知识点：静态和非静态内部类的区别)
-
+<!-- toc -->
 <!--more-->
+
+### 1、Handler&内部类 (涉及知识点：静态和非静态内部类的区别)
 
 ```
 public class SampleActivity extends Activity {
