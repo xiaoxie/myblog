@@ -41,5 +41,5 @@
 
 ### deploye
 
-	hexo -d g
+	hexo g -d
 
