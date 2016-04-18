@@ -28,6 +28,8 @@ date: 2016-01-04 18:42:57
 
 * [segmentfault](https://segmentfault.com)
 
+* [godoc](https://godoc.org)
+
 ### 博客
 
 * [专家博客](http://blog.csdn.net/experts.html)
@@ -37,6 +39,10 @@ date: 2016-01-04 18:42:57
 * [Hongyang](http://blog.csdn.net/lmj623565791)
 
 * [老罗的Android之旅](http://blog.csdn.net/luoshengyang)
+
+* [泡在网上的日子](http://www.jcodecraeer.com)
+
+* [开源项目集合](http://p.codekk.com)
 
 ### 软件工程
 
