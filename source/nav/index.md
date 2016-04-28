@@ -18,6 +18,8 @@ date: 2016-01-04 18:42:57
 
 * [OC 中国](http://objccn.io)
 
+* [imweb](https://github.com/imweb/)
+
 ### 开发社区
 
 * [开发前线](http://www.devtf.cn)
@@ -42,7 +44,15 @@ date: 2016-01-04 18:42:57
 
 * [泡在网上的日子](http://www.jcodecraeer.com)
 
+* [go 无闻](https://github.com/Unknwon)
+
 * [开源项目集合](http://p.codekk.com)
+
+* [react native 学习资源](http://www.wangchenlong.org)
+
+* [reactnative](http://reactnative.cn)
+
+* [ECMAScript 6入门](http://es6.ruanyifeng.com)
 
 ### 软件工程
 
@@ -108,6 +118,9 @@ date: 2016-01-04 18:42:57
 
 ### 作品总结
 
-* [PPT模板](http://www.1ppt.com)  [ooopic](http://www.ooopic.com)  [ppt20](http://www.ppt20.com)
+* [PPT模板](http://www.1ppt.com)  
+* [ooopic](http://www.ooopic.com)  
+* [ppt20](http://www.ppt20.com) 
+* [专利之家](http://www.patent-cn.com)
 
 
