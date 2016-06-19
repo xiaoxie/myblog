@@ -44,6 +44,8 @@ date: 2016-01-04 18:42:57
 
 * [泡在网上的日子](http://www.jcodecraeer.com)
 
+* [litesuits](http://litesuits.com/)
+
 * [go 无闻](https://github.com/Unknwon)
 
 * [开源项目集合](http://p.codekk.com)
